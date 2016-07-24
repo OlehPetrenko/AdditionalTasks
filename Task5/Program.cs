@@ -16,7 +16,7 @@ namespace Task5
 
             myCollection[12345].SetFlag(5, true);
 
-            Console.WriteLine(myCollection["12345"].GetFlag(5));
+            Console.WriteLine(myCollection["1234"].GetFlag(5));
 
             Console.ReadLine();
         }
